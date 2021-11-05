@@ -1,1 +1,1 @@
-# scraper
+# Ethereum Web Scraper (Super Basic)
